@@ -1,4 +1,6 @@
-# Avo 3 to Bullet Train template
+# Avo 3 to Bullet Train blueprint
+
+See more at: [avohq.io/blueprints](https://avohq.io/blueprints)
 
 ## Happening
 
